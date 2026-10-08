@@ -1,0 +1,5 @@
+roomId,roomName,roomCapacity,projectorStatus
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Conference Room A,10,yes
+bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,Meeting Room B,6,no
+cccccccc-cccc-cccc-cccc-cccccccccccc,Training Room,25,yes
+dddddddd-dddd-dddd-dddd-dddddddddddd,Discussion Room,4,no

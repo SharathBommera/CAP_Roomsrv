@@ -1,0 +1,33 @@
+teStarting CAP Project Generator...
+Using @sap/cds-dk [10.1.2] from /extbin/globals/bun/global/install/node_modules/@sap/cds-dk
+Using @sap/generator-cap-project [2.1.3] from [/extbin/globals/bun/global/install/node_modules/@sap/generator-cap-project]
+Using root path [/home/user/projects]
+
+Creating project with mta, nodejs
+
+Adding facet: nodejs
+Adding facet: mta
+
+Successfully initialized CAP project
+Continue with: code roomsrv 
+
+
+Installing dependencies...
+
+added 76 packages, and audited 188 packages in 4s
+
+35 packages are looking for funding
+  run `npm fund` for details
+
+6 vulnerabilities (4 high, 2 critical)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Finished installing dependencies
+
+Done setting up project roomsrv
+Project is ready to use
+
