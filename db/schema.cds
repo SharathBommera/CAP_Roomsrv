@@ -9,7 +9,6 @@ entity Employee {
     key empId          : UUID;
         empName        : String(20);
         empDesignation : String(20);
-
         bookings       : Composition of many Bookings
                             on bookings.employee = $self;
 }
